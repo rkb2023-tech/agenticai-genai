@@ -1,4 +1,3 @@
-####This is end to end ML project
 ---
 title: LanggraphAgenticAI
 emoji: 🐨
@@ -13,3 +12,5 @@ short_description: Refined langgraphAgenticAI
 ---
 
 ### End To End Agentic AI Projects
+
+The project is in development
